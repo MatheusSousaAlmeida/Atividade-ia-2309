@@ -1,9 +1,9 @@
 # Assistente de IA:  Tutor de protocolos IoT
 
 ## Integrantes
-Enzo Monteiro Maciel - RM563734
-Matheus de Almeida Sousa - RM563557
-Gabriel Bebé Silva - RM562012
+- Enzo Monteiro Maciel - RM563734
+- Matheus de Almeida Sousa - RM563557
+- Gabriel Bebé Silva - RM562012
 
 ## Tema
 - Tutor de protocolos IoT
